@@ -30,10 +30,10 @@ An end-to-end EDA for the Factoría F5 mini datathon, written up as an executive
 I'm enrolled in the AI Bootcamp at Factoría F5, where I'm building the engineering side of my profile on top of my analytics background. So far that means:
 
 - Python beyond notebooks: a digital taximeter with a layered architecture, a command-line app and a Flask web app, a REST API, SQLite history, salted password hashing and unit tests ([taxitech-digital-taximeter](https://github.com/arita-pereira/taxitech-digital-taximeter))
-- Backend development with FastAPI: a CRUD API and a user management API
-- AI automation workflows with n8n
-- Writing tests first: pytest for the cleaning code and the dashboard in my EDA project
-- Statistical testing before drawing conclusions (Kruskal-Wallis, Bonferroni correction, split-half checks) and Streamlit dashboards to present the results
+- Backend development with FastAPI: a CRUD API and a user management API, built as a team project ([backend](https://github.com/IA-P1-BCN/APIResto_Backend) and [frontend](https://github.com/IA-P1-BCN/APIResto_Frontend)). I was the Scrum Master and also developed features: invoices with CSV export, statistics with caching, error handling, logging and pagination, and Swagger docs for auth
+- AI automation workflows with n8n, built as a pair project ([LUSOGIRLS-N8N](https://github.com/IA-P1-BCN/LUSOGIRLS-N8N))
+- Writing tests first: pytest for the cleaning code and the dashboard in my EDA project ([EDA_project_by_Rita](https://github.com/IA-P1-BCN/EDA_project_by_Rita))
+- Statistical testing before drawing conclusions (Kruskal-Wallis, Bonferroni correction, split-half checks) and Streamlit dashboards to present the results ([EDA_project_by_Rita](https://github.com/IA-P1-BCN/EDA_project_by_Rita))
 
 Coming up in the bootcamp, and what I'll publish here as I finish each one:
 
