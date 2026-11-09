@@ -29,7 +29,7 @@ An end-to-end EDA for the Factoría F5 mini datathon, written up as an executive
 
 I'm enrolled in the AI Bootcamp at Factoría F5, where I'm building the engineering side of my profile on top of my analytics background. So far that means:
 
-- Python beyond notebooks: structured projects, like a command-line taximeter ([Proyecto1](https://github.com/arita-pereira/Proyecto1-Rita-Pereira))
+- Python beyond notebooks: a digital taximeter with a layered architecture, a command-line app and a Flask web app, a REST API, SQLite history, salted password hashing and unit tests ([taxitech-digital-taximeter](https://github.com/arita-pereira/taxitech-digital-taximeter))
 - Backend development with FastAPI: a CRUD API and a user management API
 - AI automation workflows with n8n
 - Writing tests first: pytest for the cleaning code and the dashboard in my EDA project
@@ -56,8 +56,6 @@ Coming up in the bootcamp, and what I'll publish here as I finish each one:
 - Used vendor performance and engagement data to guide growth strategy, contributing to vendor base growth of 367% in Portugal and 208% in Brazil over 8 years.
 - Audited 3,000+ vendor storefronts in SQL and fixed inconsistencies, so couples could compare vendors more easily and vendors received better-quality leads.
 - Led a team of 5 content specialists.
-
-Translation and LQA work, and a member of Translators without Borders.
 
 ## Contact
 
