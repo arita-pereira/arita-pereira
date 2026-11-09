@@ -27,23 +27,22 @@ A full EDA notebook. ← add one line with the question you asked and what you f
 
 ## Background
 
-Data Engineer intern at Inetum. Freelance AI evaluation (OneForma, Outlier, Translated) and translation/LQA work, and a member of Translators without Borders.
+**Data Analyst, Inetum (Feb 2026 to Mar 2026)**
+- Built 12 Python (Pandas) pipelines that automate ingestion and transformation of 4 daily data inputs, cutting the analytics team's manual cleaning from 3 hours to 5 minutes a day (97%).
+- Structured the outputs into 6 analysis-ready tables for sales performance, inventory, store and channel comparisons, and ML demand-forecasting reports.
+
+**Data Analyst, bodas.net (Jan 2022 to Jan 2024)**
+- Found untapped vendor niches through data analysis, such as beach weddings and destination photographers. Targeted prospecting on them raised revenue by 20% and added €1,000+ per new contract.
+- Segmented 500+ vendor profiles in SQL using historical and behavioural data, lifting sales-qualified premium conversion by 40% over the previous targeting.
+- Cut new vendor onboarding time by 25% in six months by redesigning the process with Customer Support, Sales and Marketing.
+
+**Content Team Manager, bodas.net (Sep 2014 to Jan 2022)**
+- Used vendor performance and engagement data to guide growth strategy, contributing to vendor base growth of 367% in Portugal and 208% in Brazil over 8 years.
+- Audited 3,000+ vendor storefronts in SQL and fixed inconsistencies, so couples could compare vendors more easily and vendors received better-quality leads.
+- Led a team of 5 content specialists.
+
+Translation and LQA work, and a member of Translators without Borders.
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/ritaqpereira) · ritaqpereira@gmail.com
-
-<!--
-**arita-pereira/arita-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
