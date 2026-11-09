@@ -8,8 +8,8 @@ I'm looking for a Data Analyst role where I can keep growing toward ML/AI Engine
 
 - **Analysis:** SQL (MySQL, BigQuery), Python (Pandas), Excel and Google Sheets
 - **Data pipelines:** ETL with Python, Pandas and Parquet, medallion architecture
-- **Building:** FastAPI, REST APIs, n8n automations
-- **Learning now:** ML and AI engineering through the AI bootcamp at Factoría F5
+- **Building:** FastAPI, REST APIs, n8n automations, Streamlit dashboards, pytest
+- **Learning now:** AI engineering at the Factoría F5 AI Bootcamp (see below)
 - **Visualization:** Power BI and Tableau (training level)
 - **Credentials:** Google Data Analytics Certificate, allWomen Data Analysis Bootcamp
 - **Languages:** Portuguese (native), Spanish (C1), English (C1), Catalan (B1)
@@ -22,8 +22,24 @@ A daily ETL pipeline in Python and Pandas. It takes raw WooCommerce exports thro
 **[Preschool Registration in Barcelona](https://github.com/arita-pereira/BC_Final_Project)**
 My final project for the allWomen Data Analysis Bootcamp. ← add one line with the dataset source and your main finding.
 
-**[Exploratory Data Analysis](https://github.com/IA-P1-BCN/EDA_project_by_Rita)**
-A full EDA notebook. ← add one line with the question you asked and what you found.
+**[Marketing Campaign Performance: Exploratory Data Analysis](https://github.com/IA-P1-BCN/EDA_project_by_Rita)**
+An end-to-end EDA for the Factoría F5 mini datathon, written up as an executive report for a CEO. I asked which channels, audiences and campaign types acquire users most efficiently. The data said none of them do: differences between groups don't survive statistical tests, and the best-performing combinations change completely when the data is split in two. The real finding is a budget leak, where 9.2% of campaigns take 10.9% of the budget and bring 1.3% of conversions. I also documented the dataset's limits in a data quality report. Includes a [live Streamlit dashboard](https://marketing-campaigns-rita.streamlit.app), a bilingual executive report and a tested cleaning pipeline.
+
+## Currently learning
+
+I'm enrolled in the AI Bootcamp at Factoría F5, where I'm building the engineering side of my profile on top of my analytics background. So far that means:
+
+- Python beyond notebooks: structured projects, like a command-line taximeter ([Proyecto1](https://github.com/arita-pereira/Proyecto1-Rita-Pereira))
+- Backend development with FastAPI: a CRUD API and a user management API
+- AI automation workflows with n8n
+- Writing tests first: pytest for the cleaning code and the dashboard in my EDA project
+- Statistical testing before drawing conclusions (Kruskal-Wallis, Bonferroni correction, split-half checks) and Streamlit dashboards to present the results
+
+Coming up in the bootcamp, and what I'll publish here as I finish each one:
+
+- **Data Analysis and ML:** a classification project, an unsupervised learning project, a data pipeline and visualization project, and a data science project with Keras and MLOps
+- **Agents, orchestration and multi-agent systems:** an LLM project with agents and RAG, and an orchestration and multi-agent systems project
+- **Final project**
 
 ## Background
 
