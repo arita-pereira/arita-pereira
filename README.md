@@ -17,12 +17,21 @@ I'm looking for a Data Analyst role where I can keep growing toward ML/AI Engine
 ## Projects
 
 **[Marketing Campaign Performance: Exploratory Data Analysis](https://github.com/IA-P1-BCN/EDA_project_by_Rita)**
+
+<img src="assets/eda_marketing_flow.png" alt="Marketing Campaign Performance: analysis flow" width="700">
+
 An end-to-end EDA for the Factoría F5 mini datathon, written up as an executive report for a CEO. I asked which channels, audiences and campaign types acquire users most efficiently. The data said none of them do: differences between groups don't survive statistical tests, and the best-performing combinations change completely when the data is split in two. The real finding is a budget leak, where 9.2% of campaigns take 10.9% of the budget and bring 1.3% of conversions. I also documented the dataset's limits in a data quality report. Includes a [live Streamlit dashboard](https://marketing-campaigns-rita.streamlit.app), a bilingual executive report and a tested cleaning pipeline.
 
 **[Preschool Registration in Barcelona](https://github.com/arita-pereira/BC_Final_Project)**
+
+<img src="assets/preschool_bcn_flow.png" alt="Preschool Registration in Barcelona: analysis flow" width="700">
+
 My final project for the allWomen Data Analysis Bootcamp, and a personal one: my son was about to start preschool in Barcelona, so I used public data to understand the P3 pre-registration process. Births in the city fell 27.1% from the 2008 peak to 2023, and P3 places offered fell 17.4% between 2017/18 and 2024/25 (14,056 to 11,605). In 2024/25 there were fewer places than eligible children (11,605 vs 11,975), and the public/private mix depends heavily on the district. Sarrià-Sant Gervasi is mostly private, Sant Martí mostly public. Data from Idescat and Dades Obertes de Catalunya, analysed in Python and presented as a data story with Flourish and Canva. [Interactive presentation](https://canva.link/b2ulmjp3ocmfc1i) · [PDF version](https://github.com/arita-pereira/BC_Final_Project/blob/main/Final%20Project%20DA%20Bootcamp%20-%20Preschool%20Registration%20in%20Barcelona.pdf)
 
 **[WooCommerce Data Pipeline](https://github.com/arita-pereira/woocommerce-data-pipeline)**
+
+<img src="assets/woocommerce_pipeline_flow.png" alt="WooCommerce Data Pipeline: data flow" width="700">
+
 A daily ETL pipeline in Python and Pandas. It takes raw WooCommerce exports through Bronze, Silver and Gold layers and ends in a star schema ready for Power BI or Tableau. It answers questions about sales, staff productivity and product mix. Sample data included, so you can run it with `python main.py`.
 
 ## Currently learning
